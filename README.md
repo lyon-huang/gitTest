@@ -3,5 +3,6 @@
 
 ```bash
 git commit -am branch
+git cherry-pick commitID
 ```
 
